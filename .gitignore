@@ -1,3 +1,10 @@
+node_modules/
+.vscode
+.idea
+.env
+.env.Local
+
+
 # Logs
 logs
 *.log
